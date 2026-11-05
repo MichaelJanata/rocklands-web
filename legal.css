@@ -62,3 +62,8 @@ li { margin-bottom: 8px; }
   border-radius: 6px;
   padding: 1px 6px;
 }
+
+h3 {
+  font-size: 1.05rem;
+  margin: 24px 0 4px;
+}
